@@ -12,11 +12,11 @@ Project: Dự đoán giá các cổ phiếu theo từng ngày trong 14 ngày ti�
 
 (3)	Xây dựng các mô hình học máy khác nhau để dự đoán
 
-  3.1 Đánh giá độ đo (MAE) của các mô hình và so sánh.
+  - 3.1 Đánh giá độ đo (MAE) của các mô hình và so sánh.
   
-  3.2 Đánh giá thời gian huấn luyện và thời gian Testing. 
+  = 3.2 Đánh giá thời gian huấn luyện và thời gian Testing.
   
-  3.3 Vẽ đồ thị bao gồm giá trị thực và giá trị dự đoán để dễ so sánh.
+  - 3.3 Vẽ đồ thị bao gồm giá trị thực và giá trị dự đoán để dễ so sánh.
   
 (4)	Sử dụng các phương pháp xử lý vấn đề Overfiting đối với câu hỏi (3) và so sánh với việc không sử dụng Overfiting
 
