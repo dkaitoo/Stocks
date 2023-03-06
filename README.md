@@ -14,7 +14,7 @@ Project: Dự đoán giá các cổ phiếu theo từng ngày trong 14 ngày ti�
 
   - 3.1 Đánh giá độ đo (MAE) của các mô hình và so sánh.
   
-  = 3.2 Đánh giá thời gian huấn luyện và thời gian Testing.
+  - 3.2 Đánh giá thời gian huấn luyện và thời gian Testing.
   
   - 3.3 Vẽ đồ thị bao gồm giá trị thực và giá trị dự đoán để dễ so sánh.
   
